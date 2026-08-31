@@ -100,7 +100,7 @@
     <mockwebserver.version>0.2.2</mockwebserver.version>
     <maven-core.version>3.9.4</maven-core.version>
     <maven-plugin-annotations.version>3.9.0</maven-plugin-annotations.version>
-    <vertx.version>4.4.4</vertx.version>
+    <vertx.version>4.5.27</vertx.version>
 
     <!-- API versions -->
     <jsr305.version>3.0.2</jsr305.version>
@@ -126,8 +126,8 @@
     <lombok.version>1.18.28</lombok.version>
     <snakeyaml.version>2.6</snakeyaml.version>
     <snakeyaml.bundle.version>2.0</snakeyaml.bundle.version> <!-- Transitive Jackson -->
-    <bouncycastle.version>1.76</bouncycastle.version>
-    <commons-compress.version>1.23.0</commons-compress.version>
+    <bouncycastle.version>1.84</bouncycastle.version>
+    <commons-compress.version>1.26.0</commons-compress.version>
     <commons-io.version>2.13.0</commons-io.version> <!-- Required by Gradle Testing Toolkit -->
     <guava.version>32.1.2-jre</guava.version> <!-- Required by Gradle Testing Toolkit -->
     <scr.annotations.version>1.12.0</scr.annotations.version>
